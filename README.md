@@ -14,6 +14,6 @@
      style="width: 65px; height: 65px;" align="left">  
 </div> 
 
-# Curso de Git & Github
+# Repaso Git & Github
 
 Este curso esta creado para practicar el control de versiones con git y github, Desde los fundamentos hasta técnicas avanzadas, dominado el flujo de trabajo con Git, la gestión de ramas, la resolución de conflictos y la colaboración en equipo.
