@@ -9,10 +9,10 @@
            alt="GitHub - Web">
   </a>
 </div>
-<div align="left"> 
-     <img src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" 
+
+<img src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" 
      style="width: 65px; height: 65px;" align="left">  
-</div> 
+
 
 # Repaso Git & Github
 
